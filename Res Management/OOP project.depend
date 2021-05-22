@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1603171260 source:c:\users\riya\desktop\oop project\main.cpp
+	<iostream>
+	<string>
+	<cstdio>
+	<ctime>
+	<fstream>
+

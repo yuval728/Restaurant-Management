@@ -1,0 +1,7 @@
+
+Customer ID: 1004
+Dish Name	 Price	 Qty	 Tot. Price
+Veg Pulao	450	1	450	
+Butter Paneer	650	1	650	
+Gulab Jamun	200	1	200	
+Bill with Gst:1228.5
